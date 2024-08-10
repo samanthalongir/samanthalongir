@@ -17,6 +17,9 @@
 ## Projects
 
 ### [Project 1: Financial Analysis](https://app.powerbi.com/groups/me/reports/0c408779-fe7c-4ae4-ab40-3a65803c3d48/6e361c153edd738ad72f?experience=power-bi)
+
+<img src="assets/Portfolio%20I.%20Financial%20Analysis%20Project%20ss.jpg" alt="Portfolio I. Financial Analysis Project" width="500" height="300">
+
 This project was developed using the FestMan Learning Hub as a foundation.
 #### Objectives
 - Created KPIs by analyzing sales, orders, and profits.
